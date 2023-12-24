@@ -22,3 +22,8 @@ Follow these steps to set up the chat application:
 
 ```bash
 cd path/to/project
+
+## Requirements
+pip install Flask flask-socketio eventlet
+
+
